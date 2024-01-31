@@ -6,6 +6,6 @@
     <title>Git Demo</title>
 </head>
 <body>
-    
+    Hi!
 </body>
 </html>
